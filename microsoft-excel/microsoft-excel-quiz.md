@@ -898,8 +898,8 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 - [ ] Close the workbook without saving and reopen it.
 - [ ] Turn off conditional formatting.
-- [x] On the Home tab of the ribbon, select Fit to Column.
-- [ ] Expand the width of its column.
+- [ ] On the Home tab of the ribbon, select Fit to Column.
+- [x] Expand the width of its column.
 
 #### Q108. In the worksheet below, a table called Projects extends from cell A1 to D10. Cell D1 contains the text Status. Cell E12 contains the formula =Projects[@Status]. What does this formula return?
 
