@@ -769,9 +769,7 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 - [ ] manual highlighting
 - [ ] data bars (within conditional formatting)
 
-#### Q92. To split text across cells without using Merge & Center, click **Formt Cells**. The, on \*\*
-
-Alignment** tab, click**\_\*\*.
+#### Q92. To split text across cells without using Merge & Center, click **Format Cells**.Then, on **Alignment** tab, click_.
 
 - [x] Text control > Merge cells
 - [ ] Horizontal > Center across selection
