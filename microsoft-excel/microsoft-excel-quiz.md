@@ -1210,8 +1210,8 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 - [ ] There is not a feature in Excel that will do this.
 - [ ] Data Limiting
-- [x] Data Parameters
-- [ ] Data Validation
+- [ ] Data Parameters
+- [x] Data Validation
 
 #### Q146. What is the output of the formula `=(8+2*3)/2`?
 
