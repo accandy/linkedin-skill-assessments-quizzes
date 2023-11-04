@@ -1245,10 +1245,10 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 #### Q150. You have a workheet with the year in column A, the month in column B, and the day in column C. All fields contain numbers. What function would you use to create the date column in D?
 
-- [x] `DATEVALUE`
+- [ ] `DATEVALUE`
 - [ ] `CONCATENATE`
 - [ ] `TEXTJOIN`
-- [ ] `DATE`
+- [x] `DATE`
 
 #### Q151. You have a column containing runner times for a recent race. What function could you use to find the second-place finisher (the runner with the second-lowest time)?
 
