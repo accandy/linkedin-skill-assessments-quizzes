@@ -1252,8 +1252,8 @@ https://sfmagazine.com/post-entry/may-2020-excel-sharing-a-pivot-table-slicer-be
 
 #### Q151. You have a column containing runner times for a recent race. What function could you use to find the second-place finisher (the runner with the second-lowest time)?
 
-- [ ] `SMALL`
-- [x] `MATCH`
+- [x] `SMALL`
+- [ ] `MATCH`
 - [ ] `MIN`
 - [ ] `NEXT`
 
