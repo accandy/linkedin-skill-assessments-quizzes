@@ -716,9 +716,9 @@ A pie chart only reads a single data series from a data source and ignores all o
 #### Q91. Which function turns a document into a webpage?
 
 - [ ] Style
-- [x] Format
+- [ ] Format
 - [ ] Translate
-- [ ] Transform
+- [x] Transform
 
 #### Q92. Which is not a text wrapping option for a picture?
 
@@ -730,8 +730,8 @@ A pie chart only reads a single data series from a data source and ignores all o
 #### Q93. You are editing a paragraph that begins on one page and ends on the next after selecting the entire paragraph, how can you display it on one page?
 
 - [ ] In paragraph settings, click Indent and Spacing > pagination and select Keep with next
-- [x] In paragraph settings, click Line and Page Break > pagination and select Keep with next
-- [ ] In paragraph settings, click Line and Page Break > pagination and select keep lines together
+- [ ] In paragraph settings, click Line and Page Break > pagination and select Keep with next
+- [x] In paragraph settings, click Line and Page Break > pagination and select keep lines together
 - [ ] In paragraph settings, click Line and Page Break > pagination and select Widow/Orphan control
 
 #### Q94. Double clicking in the left margin will \_ the paragraph to the right.
@@ -962,5 +962,5 @@ explain:
 
 - [ ] Spell check
 - [ ] Formatting text
-- [ ] Searching for and replacing specific text
-- [x] Creating hyperlinks
+- [x] Searching for and replacing specific text
+- [ ] Creating hyperlinks
