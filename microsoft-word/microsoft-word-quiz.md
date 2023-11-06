@@ -303,8 +303,8 @@ D. Inserts and Deletions and Formatting are turned off in Show Markup.
     D. Type "(R)".
 
 - [ ] B and D
-- [x] A and B
-- [ ] B and C
+- [ ] A and B
+- [x] B and C
 - [ ] A and D
 
 **Hint:**
